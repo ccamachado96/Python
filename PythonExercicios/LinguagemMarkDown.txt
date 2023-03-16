@@ -1,1 +1,78 @@
 Símbolos da Linguagem MarkDown para Issues
+
+** ** - Negrito
+
+__ __ - Negrito
+
+
+* * - Itálico
+
+_ _ - Itálico
+
+~~ ~~ - Risco no meio
+
+
+# - Título de nível 1
+## - Título de NIVEL 2
+### - Título de nível 3
+
+
+--- Linha para divisão
+*** - Linha para divisão
+
+
+Lista numerada (número e ponto)
+1. Teste1
+1. Teste2
+1. Teste3
+1. Teste4
+
+
+SubItem (colocar 3 espaços antes do número)
+
+1. Teste1
+   1. Subitem
+
+
+
+
+Lista demarcada (asterístico ou traço antes)
+
+* Teste
+* Teste
+   *Teste
+* Teste
+
+ou
+
+- Teste
+- Teste
+   -Teste
+- Teste
+
+
+Lista de tarefas
+
+- { } Texto qualquer 1
+- { } Texto qualquer 2
+- { } Texto qualquer 3
+- { } Último texto qualquer 4
+
+
+
+
+Colocando imagens no texto, basta arrastar o arquivo para dentro da linha disponível dentro da própria caixa de texto.
+
+Após isso será gerada uma linha de código
+
+[dentro do colchete coloca-se a descrição da imagem]
+
+
+Criando links:
+
+[Seu texto aqui](seu_link)
+
+
+
+Tabelas
+
