@@ -73,6 +73,54 @@ Criando links:
 [Seu texto aqui](seu_link)
 
 
+Tabelas:
 
-Tabelas
+Num | Nome | Nota
+---|---|---
+1 | Caio Machado | 7.5
+2 | Chiquinho | 10.0
+3 | Ana Luiza | 9.1
+4 | Charles | 4.5
+
+
+
+Identificação de comandos:
+
+´linha de comando qualquer´
+
+
+
+Para colocar trechos de programa:
+
+Olha meu programa em Python
+
+'''
+num = int(input('Digite um valor:))
+print('O número digitado foi:'.format(num))
+
+'''
+
+
+
+Emojis (usando dois pontos : )
+
+Olá pequeno Gafanhoto :
+
+
+Lista de emojis:  github.com/ikatyang
+Repositório: emoji-cheat-sheet
+
+
+
+
+emojipedia.org
+escolher a categoria
+escolher o emoji
+Copiar o emoji, e colar no título da issue
+
+
+
+
+
+
 
