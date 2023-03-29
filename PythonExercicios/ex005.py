@@ -18,3 +18,12 @@ n = int(input('Informe um número: '))
 a = n - 1
 s = n + 1
 print('O antecessor de {} é {}, e o sucessor é {}'.format(n, a, s))
+
+
+
+
+#3ª forma #sem guardar as informações em variáveis, ou seja, apenas executar o programa uma vez
+
+n = int(input('Informe um número: '))
+print('O antecessor de {} é {}, e o sucessor é {}'.format(n, (n-1), (n+1)))
+
