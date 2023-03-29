@@ -30,3 +30,17 @@ print('O número informado foi: {}'.format(n))
 print('O dobro de {}, vale {}'.format(n, (n*2)))
 print('O triplo de {}, vale {}'.format(n, (n*3)))
 print('A raiz de {}, vale {:.2f}'.format(n, (n ** (1/2))))
+
+
+
+# 3ª forma, usando a função POWER
+
+n = int(input('Informe um número qualquer: '))
+
+print('O número informado foi: {}'.format(n))
+
+print('O dobro de {}, vale {}'.format(n, (n*2)))
+print('O triplo de {}, vale {}'.format(n, (n*3)))
+print('A raiz de {}, vale {:.2f}'.format(n, (pow(n, (1/2))))
+      
+      
