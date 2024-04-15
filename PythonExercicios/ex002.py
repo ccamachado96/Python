@@ -3,4 +3,4 @@
 nome = input('Informe seu nome: ')
 print('Seja bem-vindo ao novo sistema, sr {}.'.format(nome))
 
-#Feito em 15/04/2024 às 20h18
+#Feito em 15/04/2024 às 20h22
