@@ -1,4 +1,4 @@
-#Calculando um antecessor e sucessor de um número
+#Calculando um antecessor e sucessor de um número - feito em 21/04/2024 às 19h12
 
 n = int(input('Informe um número: '))
 print('O número informado foi: {}'.format(n))
