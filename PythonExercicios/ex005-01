@@ -1,0 +1,15 @@
+#Calculando um antecessor e sucessor de um número
+
+n = int(input('Informe um número: '))
+print('O número informado foi: {}'.format(n))
+
+antecessor = n -1
+sucessor = n + 1
+
+#print('O antecessor de {}, vale: {}\n O sucessor de {}, vale {}'.format(n, antecessor, n, sucessor))  #usando todos os comandos na mesma linha
+
+
+#usar os comandos em linhas separadas:
+
+print('O antecessor de {}, vale {}.'.format(n, antecessor))
+print('O sucessor de {}, vale {}.'.format(n, sucessor))
